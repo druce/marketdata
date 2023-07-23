@@ -1,8 +1,10 @@
 # marketdata
 APIs for free and low-cost market data
+- `pip install -r requirements.txt`
+- run [Market Data.ipynb](https://github.com/druce/marketdata/blob/main/Market%20Data.ipynb)
 
 # Financial Market Data APIs
-- How to access datafeeds used by [OpenBB](https://openbb.co/) and mentioned in [this post](https://medium.com/@peteramaral/want-to-be-informed-like-a-hedge-fund-manager-add-these-api-keys-to-your-openbb-terminal-8f96c2256b22)
+Access datafeeds used by [OpenBB](https://openbb.co/) and mentioned in [this post](https://medium.com/@peteramaral/want-to-be-informed-like-a-hedge-fund-manager-add-these-api-keys-to-your-openbb-terminal-8f96c2256b22)
 - [Alpha Vantage](https://www.alphavantage.co/)
 - [Polygon](https://polygon.io/)
 - [FRED](https://fred.stlouisfed.org/)
