@@ -1,0 +1,17 @@
+jupyter
+ipykernel
+python-dotenv
+
+alpha-vantage
+polygon
+fredapi
+eodhd
+matplotlib
+finnhub-python
+fmp-python
+openpyxl
+newsapi-python
+stocksera
+quandl
+python-eodhistoricaldata
+git+https://github.com/femtotrader/python-eodhistoricaldata.git
