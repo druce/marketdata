@@ -1,0 +1,12 @@
+# add your API keys, rename this file to .env and load with dotenv.load_dotenv()
+
+ALPHAVANTAGE_API_KEY=
+POLYGON_API_KEY=
+FRED_API_KEY=
+EODHD_API_KEY=
+FINNHUB_API_KEY=
+FMP_API_KEY=
+NEWSAPI_API_KEY=
+QUANDL_API_KEY=
+STOCKSERA_API_KEY=
+

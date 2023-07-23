@@ -1,6 +1,7 @@
 # marketdata
 APIs for free and low-cost market data
 - `pip install -r requirements.txt`
+- rename `dotenv` to `.env` and add your own API keys
 - run [Market Data.ipynb](https://github.com/druce/marketdata/blob/main/Market%20Data.ipynb)
 
 # Financial Market Data APIs
