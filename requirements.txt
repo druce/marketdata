@@ -15,3 +15,8 @@ stocksera
 quandl
 python-eodhistoricaldata
 git+https://github.com/femtotrader/python-eodhistoricaldata.git
+
+openai
+tiktoken
+chromadb
+langchain
