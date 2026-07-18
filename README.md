@@ -24,7 +24,8 @@ Access datafeeds used by [OpenBB](https://openbb.co/) and mentioned in [this pos
     - twelvedata.com
     - alpaca.markets
     - roic.ai
-    - https://www.xignite.com/products
+    - xignite.com
+    - yfin.dev (seems broken)
     
 ![openbb.png](openbb.png)
 
