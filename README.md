@@ -20,6 +20,11 @@ Access datafeeds used by [OpenBB](https://openbb.co/) and mentioned in [this pos
     - [IEX](https://iexcloud.io/pricing) (looks super interesting but data bundles are expensive)
     - [Databento](https://databento.com/pricing) (looks interesting and reasonably priced market data, just using free tier for now)
     - [Oanda](https://www.oanda.com/foreign-exchange-data-services/en/exchange-rates-api/free-trial/) (don't care as much about FX for now)
+    - massive.com (rebranded polygon)
+    - twelvedata.com
+    - alpaca.markets
+    - roic.ai
+    - https://www.xignite.com/products
     
 ![openbb.png](openbb.png)
 
